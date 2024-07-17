@@ -30,8 +30,8 @@
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats & Certification </h2> <div align= "center"> 
     </div> 
     <div align= "center">
-        삼성전자 SW 역량테스트 Pro
-        HSAT 3급
+        삼성전자 SW 역량테스트 Pro <br>
+        HSAT 3급 <br>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=object1997">
     </div>
     </div>
