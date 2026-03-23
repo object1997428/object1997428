@@ -32,6 +32,7 @@
     <div align= "center">
         삼성전자 SW 역량테스트 Pro <br>
         HSAT 3급 <br>
+        Todic Speaking Test IM2(120) (2026.03.07 ~ )
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=object1997">
     </div>
     </div>
